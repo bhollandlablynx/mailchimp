@@ -1,0 +1,20 @@
+# Dependencies
+/vendor/
+
+# Environment / secrets
+.env
+.env.*
+
+# Backups
+*.bak
+
+# Logs
+*.log
+/logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

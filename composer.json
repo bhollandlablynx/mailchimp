@@ -1,0 +1,13 @@
+{
+    "name": "lablynx/mailchimp-archiver",
+    "description": "CLI tool for bulk archiving Mailchimp audience contacts.",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "mailchimp/marketing": "^3.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
