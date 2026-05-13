@@ -4,8 +4,9 @@
     "type": "project",
     "require": {
         "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0",
         "mailchimp/marketing": "^3.0",
-        "guzzlehttp/guzzle": "^7.0"
+        "mongodb/mongodb": "^2.1"
     },
     "config": {
         "sort-packages": true
